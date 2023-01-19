@@ -13,6 +13,5 @@ Pasión por el deporte, los videojuegos y las crypto.
 
 Si te gustó mi perfil, ya sabés que hacer
 
-+54 5962 9735
 appel_8@hotmail.com
-[[https://github.com/TinoProgramer](https://www.linkedin.com/in/martinappelprogramador/)](https://www.linkedin.com/in/martinappelprogramador/)
+https://www.linkedin.com/in/martinappelprogramador/
