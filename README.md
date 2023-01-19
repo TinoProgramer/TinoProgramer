@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**TinoProgramer/TinoProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde que tengo memoria me apasiona entender y aprender sobre como funcionan las nuevas tecnologías. Soy una persona con mucha experiencia en la adaptación a nuevos desafíos, muy buena predisposición al aprendizaje y trabajo en equipo.
 
-Here are some ideas to get you started:
+Aspiro en un futuro a crear mis propios videojuegos vinculados con la blockchain, sé que es un largo camino, pero me motiva a seguir día a día y aprender todo lo que pueda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+Full Stack Developer | React.js | Node.js | Javascript | E-Commerce | Express.js | Sequelize | CSS | HTML5
+
+
+Pasión por el deporte, los videojuegos y las crypto.
+
+Si te gustó mi perfil, ya sabés que hacer
+
++54 5962 9735
+appel_8@hotmail.com
+[[https://github.com/TinoProgramer](https://www.linkedin.com/in/martinappelprogramador/)](https://www.linkedin.com/in/martinappelprogramador/)
