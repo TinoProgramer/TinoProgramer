@@ -1,4 +1,3 @@
-### Hi there 👋
 
 Desde que tengo memoria me apasiona entender y aprender sobre como funcionan las nuevas tecnologías. Soy una persona con mucha experiencia en la adaptación a nuevos desafíos, muy buena predisposición al aprendizaje y trabajo en equipo.
 
